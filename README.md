@@ -10,7 +10,9 @@
 </ul>
 <h2>✨ Technical Projects</h2>
 <ul>
-  <li><strong>usePopcorn:</strong> React front-end application designed to enhance your movie-watching experience. It features a user-friendly search bar that allows you to look up movies through a comprehensive API. Users can rate the movies they watch and effortlessly store their viewed movies in a dedicated database.</li>
+  <li><strong>The-React-Quiz:</strong> The main goal of this project was to master state management using the useReducer hook. This hook allows for dispatching different types of actions, which are then handled in the reducer function. While the useReducer hook requires more writing time, its benefits include abstracting all application functionalities into a single, easy-to-understand function. This makes the code more manageable and easier to maintain.</li>
+  <li><strong>Movie-Tracker:</strong> React front-end application designed to enhance your movie-watching experience. It features a user-friendly search bar that allows you to look up movies through a comprehensive API. Users can rate the movies they watch and effortlessly store their viewed movies in a dedicated database.</li>
+  <li><strong>Social-Mapp:</strong> This project is built using pure vanilla JavaScript with an object-oriented programming (OOP) architecture. It leverages the Geolocation library Leaflet to create a social media application where users can post images on an interactive map.</li>
 </ul>
 <h2>🌱 Growth and Continuous Learning</h2>
 <p>Currently I am delving into the world of front-end development using React, focusing on building dynamic and responsive user interfaces. My current project, usePopcorn, features a search bar that lets users look up movies via an API, rate them, and store their watched movies in a database. Additionally, I'm enhancing my skills in integrating APIs, managing state in React applications, and optimizing user experience. It's an exciting journey of coding, creativity, and continuous learning!</p>
